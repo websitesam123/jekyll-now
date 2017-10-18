@@ -70,10 +70,10 @@ p {
 
 a {
   color: $red;
-  text-decoration: none;
+  text-decoration: italics;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $red;
   }
 }
 
